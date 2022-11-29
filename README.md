@@ -4,3 +4,4 @@
 ### Com isso deixo explicito que foi bastante interessante e proveitoso este exercicio: "Desafio de Projeto da Digital Innovation One".
 ### 
 <img src="https://github.com/TONNYSAP/PokeDex-desafio-dio/blob/main/js-developer-pokedex/assets/img/pokedetails.png" alt="PokeDetails" />
+<img src="https://github.com/TONNYSAP/PokeDex-desafio-dio/blob/main/js-developer-pokedex/assets/img/pokedexpng.png" alt="PokeDex" />
